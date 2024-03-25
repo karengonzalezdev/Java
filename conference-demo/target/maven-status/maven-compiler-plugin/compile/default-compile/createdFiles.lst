@@ -1,0 +1,8 @@
+com\pluralsight\conferencedemo\repositories\SessionRepository.class
+com\pluralsight\conferencedemo\models\Speaker.class
+com\pluralsight\conferencedemo\controllers\SessionsController.class
+com\pluralsight\conferencedemo\models\Session.class
+com\pluralsight\conferencedemo\controllers\SpeakersController.class
+com\pluralsight\conferencedemo\controllers\HomeController.class
+com\pluralsight\conferencedemo\ConferenceDemoApplication.class
+com\pluralsight\conferencedemo\repositories\SpeakerRepository.class
